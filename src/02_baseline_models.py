@@ -2,7 +2,7 @@
 ================================================================================
 MISSION 2: BASELINE MODELING
 ================================================================================
-Research Project: Federated Learning for CO2 Prediction in Smart School Environments
+Research Project: Knowledge-Guided Context-Aware Federated Learning for Intelligent CO₂ Prediction in Heterogeneous Smart Environments
 Target: Q1 Journal Publication
 
 This script establishes baseline results before federated learning comparison:

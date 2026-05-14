@@ -1,4 +1,4 @@
-# FedCORA: Federated Context-Oriented Reliable Aggregation for CO2 Prediction in Smart School Environments
+# FedCORA: A Knowledge-Guided Context-Aware Federated Learning Framework for Intelligent CO₂ Prediction in Heterogeneous Smart Environments
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-green.svg)](https://www.python.org/)
@@ -15,7 +15,7 @@
 
 ## Overview
 
-This repository contains the implementation of **FedCORA** (Federated Context-Oriented Reliable Aggregation), a novel federated learning framework designed for indoor air quality (CO2) prediction in smart school environments.
+This repository contains the implementation of **FedCORA**, a knowledge-guided context-aware federated learning framework designed for intelligent indoor air quality (CO₂) prediction in heterogeneous smart environments.
 
 FedCORA addresses the challenges of **non-IID** (non-independent and identically distributed) data across heterogeneous school environments through three key mechanisms:
 
@@ -110,8 +110,8 @@ FedCORA/
 ### Installation
 
 ```bash
-git clone https://github.com/dodotik123/Federated-Learning-FedCORA.git
-cd Federated-Learning-FedCORA
+git clone https://github.com/montaserramadan/FedCora.git
+cd FedCora
 pip install -r requirements.txt
 ```
 
@@ -205,10 +205,10 @@ If you use this code or dataset in your research, please cite:
 
 ```bibtex
 @misc{ramadan2026fedcora,
-  title={FedCORA: Federated Context-Oriented Reliable Aggregation for CO2 Prediction in Smart School Environments},
+  title={FedCORA: A Knowledge-Guided Context-Aware Federated Learning Framework for Intelligent CO\textsubscript{2} Prediction in Heterogeneous Smart Environments},
   author={Ramadan, Montaser N. A.},
   year={2026},
-  url={https://github.com/dodotik123/Federated-Learning-FedCORA}
+  url={https://github.com/montaserramadan/FedCora}
 }
 ```
 

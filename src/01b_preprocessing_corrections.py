@@ -2,7 +2,7 @@
 ================================================================================
 MISSION 1 FINAL CORRECTIONS: Q1 PUBLICATION STANDARDS
 ================================================================================
-Research Project: Federated Learning for CO2 Prediction in Smart School Environments
+Research Project: Knowledge-Guided Context-Aware Federated Learning for Intelligent CO₂ Prediction in Heterogeneous Smart Environments
 Target: Q1 Journal Publication
 
 CORRECTIONS APPLIED:
