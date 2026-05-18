@@ -1,4 +1,4 @@
-# FedCORA: A Knowledge-Guided Context-Aware Federated Learning Framework for Intelligent CO₂ Prediction in Heterogeneous Smart Environments
+# FedCORA: A Resilience-Oriented Context-Aware Federated Learning Framework with Cascading Fuzzy Inference for Intelligent Indoor CO₂ Safety Monitoring in Smart Buildings
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-green.svg)](https://www.python.org/)
