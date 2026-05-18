@@ -205,7 +205,7 @@ If you use this code or dataset in your research, please cite:
 
 ```bibtex
 @misc{ramadan2026fedcora,
-  title={FedCORA: A Knowledge-Guided Context-Aware Federated Learning Framework for Intelligent CO\textsubscript{2} Prediction in Heterogeneous Smart Environments},
+  title={FedCORA: A Resilience-Oriented Context-Aware Federated Learning Framework with Cascading Fuzzy Inference for Intelligent Indoor CO₂ Safety Monitoring in Smart Buildings},
   author={Ramadan, Montaser N. A.},
   year={2026},
   url={https://github.com/montaserramadan/FedCora}
