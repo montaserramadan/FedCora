@@ -34,7 +34,7 @@ Measurements are recorded at a fixed **10-minute sampling interval** throughout 
 
 ## Data Description
 
-The raw datasets are provided in `data/raw/` as Excel (`.xlsx`) files, one per school.
+The raw datasets are provided as Excel (`.xlsx`) files, one per school.
 Every record (row) contains the following columns:
 
 | Column | Unit | Description |
@@ -67,7 +67,7 @@ FedCORA/
 ```python
 import pandas as pd
 
-df = pd.read_excel("data/raw/school-A.xlsx")
+df = pd.read_excel("/school-A.xlsx")
 print(df.head())
 ```
 
@@ -79,9 +79,7 @@ If you use this dataset in your research, please cite:
 
 ```bibtex
 @misc{ramadan2026fedcora,
-  title  = {FedCORA: A Resilience-Oriented Context-Aware Federated Learning Framework
-            with Cascading Fuzzy Inference for Intelligent Indoor CO2 Safety Monitoring
-            in Smart Buildings},
+  title  = {FedCORA: daptive Federated Learning through Knowledge-Guided Context-Aware Aggregation in Heterogeneous Non-IID Environments},
   author = {Ramadan, Montaser N. A.},
   year   = {2026},
   url    = {https://github.com/montaserramadan/FedCora}
