@@ -57,11 +57,9 @@ FedCORA/
 |
 |-- README.md
 |
-+-- data/
-    +-- raw/
-        |-- school-A.xlsx
-        |-- school-B.xlsx
-        +-- school-C.xlsx
+|-- school-A.xlsx
+|-- school-B.xlsx
++-- school-C.xlsx
 ```
 
 ### Loading the data (Python)
